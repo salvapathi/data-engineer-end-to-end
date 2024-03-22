@@ -1,0 +1,13 @@
+apache-airflow
+apache-airflow-providers-apache-spark
+yfinance
+pandas
+pyarrow
+minio
+mlflow==2.9.2
+mysql-connector-python
+psycopg2-binary
+numpy 
+hyperopt
+pymongo
+confluent-kafka

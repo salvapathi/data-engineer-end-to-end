@@ -1,0 +1,21 @@
+[
+    {
+      "bike": {
+        "name": "YAMAHA R15",
+        "manufacturer": "YAMAHA",
+        "top_speed": 160,
+        "engine_displacement": "155 cc",
+        "horsepower": 25.07
+      },
+      "origin": {
+        "country": "japan",
+        "year": 2014
+      },
+      "price_and_maintenance": {
+        "price": "$2,800",
+        "maintenance_cost": "$150/year"
+      },
+      "type": ["cruiser"]
+    }
+  ]
+  
